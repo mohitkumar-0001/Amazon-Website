@@ -1,1 +1,2 @@
 # Amazon-Website
+# This project is a responsive **Amazon Clone** built using **HTML5** and **CSS3**. It recreates the design and layout of the Amazon homepage while focusing on clean, semantic code and modern front-end development practices. The project includes a responsive navigation bar, hero section, product cards, and footer, providing a realistic e-commerce interface. It was developed to strengthen core web development skills, improve responsive design techniques, and showcase front-end development abilities.
